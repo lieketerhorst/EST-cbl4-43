@@ -1,7 +1,7 @@
 % Pre-processing script for the EST Simulink model. This script is invoked
 % before the Simulink model starts running (initFcn callback function).
 
-%% Load the supply and demand data
+%% Load the supply and demand dataa
 
 timeUnit   = 's';
 
